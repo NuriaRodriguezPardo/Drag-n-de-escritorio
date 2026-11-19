@@ -1,0 +1,60 @@
+DRAGÓN DE ESCRITORIO · Ember
+============================
+
+Ember es un dragón adulto que vive en tu escritorio. Camina por la barra de
+tareas, vuela, se posa sobre tus ventanas, duerme, juega y tiene sus propios
+estados de ánimo (curioso, juguetón, perezoso, enfadado, contento y somnoliento).
+
+INICIAR Y CERRAR
+- Inicia "Dragón de Escritorio" desde el menú Inicio o el acceso directo.
+- Aparece un icono con la cabeza del dragón junto al reloj (bandeja del sistema).
+  · Clic izquierdo en el icono: mostrar / ocultar al dragón.
+  · Clic derecho en el icono: menú completo.
+- Para cerrar: icono de la bandeja > "Cerrar la aplicación"
+  (o clic derecho sobre el dragón > "Cerrar la aplicación").
+
+MENÚ DE LA BANDEJA
+- Mostrar dragón ............ lo muestra u oculta.
+- Llamar al dragón ahora .... si se ha ido de paseo, vuelve volando.
+- Pausar animaciones ........ lo congela y deja de consumir recursos.
+- Autonomía ................. activada: decide solo qué hacer, cuándo irse y volver.
+                              desactivada: se queda tranquilo y sólo reacciona a ti.
+- Frecuencia de aparición ... Baja / Normal / Alta / Siempre presente.
+- Volumen ................... Silencio, 25, 50, 75, 100 %.
+- Tamaño .................... Pequeño / Mediano / Grande.
+- Interacción con Windows:
+    · Posarse sobre ventanas: se sienta encima de tus ventanas (sólo las mira).
+    · Permitir empujar ventanas reales: pide confirmación; desplaza una ventana
+      unos centímetros. Nunca cierra ventanas ni toca archivos.
+- Iniciar con Windows ....... aparece al encender el ordenador.
+
+CÓMO INTERACTUAR CON ÉL
+- Clic: reacciona con curiosidad o alegría. Muchos clics seguidos le enfadan
+  (y puede escupir fuego hacia el cursor).
+- Doble clic: echa a volar.
+- Arrastrar: lo coges; al soltarlo cae o sale volando.
+- Pasar el ratón despacio por encima: lo acaricias (ronronea).
+- Clic derecho sobre él: menú rápido (volar, dar vueltas, perseguir el cursor,
+  orbe, fuego, dormir, irse, pausar, ocultar, cerrar).
+- Arrastra un archivo y suéltalo encima: lo atrapará con la boca.
+  Es sólo visual: el archivo NUNCA se abre, mueve, modifica ni borra.
+
+SEGURIDAD
+- No borra, cierra ni modifica ningún documento o ventana.
+- Sólo verás un documento si tú sueltas un archivo encima (es sólo visual).
+- Mover ventanas reales está desactivado de serie y requiere tu confirmación.
+- Funciona sin conexión a Internet. Ajustes guardados en:
+  %APPDATA%\com.claude.dragonescritorio\ajustes.json
+
+RENDIMIENTO
+- Baja los fotogramas cuando está quieto (30 fps) o dormido (15 fps).
+- Cuando está fuera, oculto, pausado, o cuando usas un programa a pantalla
+  completa (juegos, vídeos), se detiene por completo.
+
+REQUISITOS
+- Windows 10 u 11 (64 bits) con Microsoft Edge WebView2 Runtime (incluido en
+  Windows 11 y en Windows 10 actualizado).
+
+DESINSTALAR
+- Configuración > Aplicaciones > "Dragón de Escritorio" > Desinstalar,
+  o menú Inicio > Dragón de Escritorio > Desinstalar.
